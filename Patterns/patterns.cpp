@@ -35,7 +35,9 @@ void print8 (int n) {
         cout<<endl;
     }
 }
-
+void print9 (int n) {
+    
+}
 
 int main(){
     int T;
